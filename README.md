@@ -5,7 +5,7 @@ This project is a website made for the company AB Imports. They are a vehicle bo
 The site also features a Login page for employees to create and log in. After a successful login, they have permission to edit/add/delete the vehicles displayed for users.
 
 ## Tech Stack
-React.js, Express, HTML/CSS/JS, MySQL, Google Maps API, AWS S3
+React.js, Javascript, AWS S3, Express, HTML/CSS/JS, MySQL, Google Maps API
 
 ## Pages
 - Home
